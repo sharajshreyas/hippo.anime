@@ -66,4 +66,4 @@ function updateEyePosition(event) {
 }
 
 // Last minute link to the tutorial
-button.addEventListener('click', () => window.open('https://codepen.io/MarioD/post/interactive-hippo-button-tutorial'));
+button.addEventListener('click', () => window.open('https://www.instagram.com/sharaj.shreyas/'));
